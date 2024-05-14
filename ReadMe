@@ -1,0 +1,41 @@
+             Name:    Muneeb Ahmed
+           Reg No:    FA23-BSE-146
+
+
+
+Assignment Title:  
+                 Create and design a project using the concepts of object-oriented programming.
+                    
+                           Fitness Tracker and Virtual Coach Application                             
+
+Overview:
+         The Fitness Tracker and Virtual Coach application will allow users to track their fitness activities, set goals, receive personalized workout recommendations, and monitor their progress over time. The virtual coach will provide motivational messages and tips based on the user's fitness goals and performance.
+
+Basic Project Structure:
+•	User class: Represents a fitness tracker user with attributes like name, age, weight, etc.
+•	Exercise class: Represents different types of exercises with attributes like name, category, and intensity.
+•	Workout class: Represents a workout session consisting of multiple exercises and duration.
+•	Goal class: Represents a fitness goal set by the user (e.g., weight loss, muscle gain).
+•	Fitness Tracker class: Manages user data, tracks activities, sets goals, and provides workout recommendations.
+•	Virtual Coach class: Provides motivational messages, tips, and guidance based on user goals and performance.
+
+
+
+                                     Graphical User Interface (GUI)
+
+Following features will be included for the users with the help of GUI:
+•	Login their fitness activities (e.g. exercise, duration, intensity)
+•	Set Fitness goals (e.g. weight loss, muscle gain, endurance)
+•	View personalized workout recommendations.
+•	Monitor their progress.
+•	Receive motivational messages, tips and guidance from the virtual coach.
+
+Implementation Goals:
+1.	To define class structures and relationships based on the project requirements.
+2.	To implement methods for adding exercises, logging workouts, setting goals and generating workout recommendations.
+3.	To design GUI components for data input goal setting, progress tracking and virtual coach messages.
+4.	To integrate backend logic with GUI components to enable user interaction and data visualization.
+
+
+	
+
